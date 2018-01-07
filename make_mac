@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+premake4 --os=macosx --platform=universal32 --file=BuildProjects.lua gmake

@@ -1,5 +1,6 @@
 # gm_psql
-Because there is none
+Because there is none.
+*THIS DOES NOT WORK AT THE MOMENT*
 
 # Requirements:
 * https://github.com/jtv/libpqxx
